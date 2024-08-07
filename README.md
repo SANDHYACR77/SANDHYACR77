@@ -1,5 +1,5 @@
 I am SANDHYA CR
-I am Python developer
+I am a PYTHON DEVELOPER
 
 
 - 👋 Hi, I’m @SANDHYACR77
