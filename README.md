@@ -3,7 +3,7 @@ I AM SANDHYA CR
 
 I AM A PYTHON DEVELOPER
 
-# Hey Everyone! I'm [SANDHYA CR](https://github.com/SANDHYACR77) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hey Everyone! I'm [SANDHYA CR](https://github.com/SANDHYACR77) <img src="https://github.com/sandhyaramehs.cr77/sandhyaramehs.cr77/blob/master/Hi.gif" width="25px">
 <br><br>
 
 <a href="https://www.linkedin.com/in/kiran-sagar-a00a761b2/">
@@ -12,7 +12,7 @@ I AM A PYTHON DEVELOPER
 <a href="https://github.com/sandhyacr77">
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/pythonlifetelugu/?hl=en">
+<a href="https://www.instagram.com/sandhyacr/?hl=en">
   <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://www.youtube.com/channel/UC3Qe9c8dZqnjwcDD2vCZBKQ">
@@ -29,11 +29,11 @@ I AM A PYTHON DEVELOPER
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
   <br>
   
-- 🔭 I’m currently working on PythonLife
-- 🌱 I’m currently learning Artificial Intelligence
+- 🔭 I’m currently working python developer
+- 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on Youtube
 - 💬 Ask me about Computer Vision
-- 📫 How to reach me: pythonlifekiran@gmail.com
+- 📫 How to reach me: sandhyaramesh.cr77.com
   <br>
 </div>
 
