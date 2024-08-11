@@ -9,7 +9,7 @@ I AM A PYTHON DEVELOPER
 <a href="https://www.linkedin.com/in/kiran-sagar-a00a761b2/">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/kiransagar1">
+<a href="https://github.com/sandhyacr77">
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/pythonlifetelugu/?hl=en">
@@ -103,7 +103,7 @@ I AM A PYTHON DEVELOPER
 ### Github Stats
   
 <p align="center">
-  <a href="https://github.com/kiransagar1"><span>
+  <a href="https://github.com/sandhyacr77"><span>
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=kiransagar1&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amandewatnitrr&theme=tokyonight" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amandewatnitrr&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=tokyonight"/>
@@ -115,12 +115,12 @@ I AM A PYTHON DEVELOPER
 ### 🏆 GitHub Profile Trophy:
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=kiransagar1&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=sandhyacr77&column=8&theme=onedark&no-frame=true&no-bg=true"/>
 </a>
 </p>
 
 ### 📈 GitHub Activity:
-  <a href="https://github.com/kiransagar1/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kiransagar1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/sandhyacr77/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sandhyacr77&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
