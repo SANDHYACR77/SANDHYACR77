@@ -3,7 +3,7 @@ I AM SANDHYA CR
 
 I AM A PYTHON DEVELOPER
 
-# Hey Everyone! I'm [SANDHYA CR](https://github.com/SANDHYACR77) <img src="https://github.com/sandhyaramehs.cr77/sandhyaramehs.cr77/blob/master/Hi.gif" width="25px">
+# Hey Everyone! I'm [SANDHYA CR](https://github.com/SANDHYACR77) <img src="https://github.com/sandhyaramehs.cr77/sandhyarameh.cr77/blob/master/Hi.gif" width="25px">
 <br><br>
 
 <a href="https://www.linkedin.com/in/kiran-sagar-a00a761b2/">
@@ -33,7 +33,7 @@ I AM A PYTHON DEVELOPER
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on Youtube
 - 💬 Ask me about Computer Vision
-- 📫 How to reach me: sandhyaramesh.cr77.com
+- 📫 How to reach me
   <br>
 </div>
 
@@ -126,13 +126,6 @@ I AM A PYTHON DEVELOPER
 
 <br>  
 
-- 👋 Hi, I’m @SANDHYACR77
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 SANDHYACR77/SANDHYACR77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
